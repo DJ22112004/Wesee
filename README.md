@@ -1,4 +1,4 @@
-Blockchain Game Technical Assessment
+Blockchain Game Technical Assessment :
 This project is an end-to-end decentralized application (dApp) built to assess skills in Blockchain, Smart Contracts, Crypto, Web3, and System Architecture. The solution is divided into three main components: smart contracts, a backend gateway, and a simple frontend, along with a separate leaderboard indexer.
 
 
